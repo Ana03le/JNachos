@@ -28,7 +28,7 @@ SendAnswer Implemented: Here the process receives the buffer in its queue. Hence
 ##Test scenario for Implementation: 
 processA initiates communication and where processB exists before WaitAnswer is called again by processA. 
 
-## Code Sample: 
+## Commands for implementation: 
 Command line arguments for Process A and Process B: -x /Users/abcd/JNachosLab2Solution/test/processA,/Users/abcd/JNachosLab2Solution/test/proce ssB 
 
 
